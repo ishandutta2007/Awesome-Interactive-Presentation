@@ -62,48 +62,48 @@ Below is a detailed comparison of top commercial interactive presentation platfo
 
 These open-source tools allow developers, educators, and privacy-focused presenters to author slides in Markdown/HTML/JSX, self-host presentations, and control slide styling via code.
 
-Repositories below are sorted by **GitHub Star Count** (descending).
+Repositories below are sorted by **GitHub Stars_Count** (descending).
 
-1. 🖌️ **[Excalidraw](https://github.com/excalidraw/excalidraw)** — [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+1. 🖌️ **[Excalidraw](https://github.com/excalidraw/excalidraw)** — [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
    Virtual hand-drawn style infinite whiteboard used for interactive presentations, live diagramming, and collaborative visual sessions.
 
-2. 📜 **[reveal.js](https://github.com/hakimel/reveal.js)** — [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers)  
+2. 📜 **[reveal.js](https://github.com/hakimel/reveal.js)** — [![GitHub_Stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers)  
    The HTML presentation framework. Features nested 2D slides, Markdown editing, PDF exports, speaker notes, auto-play animations, and plugin architecture.
 
-3. 🎨 **[tldraw](https://github.com/tldraw/tldraw)** — [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+3. 🎨 **[tldraw](https://github.com/tldraw/tldraw)** — [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
    Infinite canvas SDK and collaborative whiteboarding engine for interactive digital presentations and custom canvas experiences.
 
-4. ⚡ **[Slidev](https://github.com/slidevjs/slidev)** — [![GitHub stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers)  
+4. ⚡ **[Slidev](https://github.com/slidevjs/slidev)** — [![GitHub_Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers)  
    Developer-first presentation tool powered by Markdown, Vue 3, and Vite. Includes live code execution, Monaco editor, presenter mode, and web component support.
 
-5. 🌌 **[Impress.js](https://github.com/impress/impress.js)** — [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers)  
+5. 🌌 **[Impress.js](https://github.com/impress/impress.js)** — [![GitHub_Stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers)  
    Spatial presentation framework leveraging CSS3 3D transforms and transitions for non-linear, Prezi-style presentation decks.
 
-6. 📝 **[remark](https://github.com/gnab/remark)** — [![GitHub stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers)  
+6. 📝 **[remark](https://github.com/gnab/remark)** — [![GitHub_Stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers)  
    Simple, in-browser Markdown-driven slideshow generator. Lightweight, standalone, and ideal for quick technical slide decks.
 
-7. 🛠️ **[Marp](https://github.com/marp-team/marp)** — [![GitHub stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
+7. 🛠️ **[Marp](https://github.com/marp-team/marp)** — [![GitHub_Stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
    Markdown presentation ecosystem featuring CLI tools, VS Code extensions, custom CSS themeability, and fast rendering to PDF, HTML, and PPTX.
 
-8. 💻 **[Slides (Terminal)](https://github.com/maaslalani/slides)** — [![GitHub stars](https://img.shields.io/github/stars/maaslalani/slides?style=social&color=white)](https://github.com/maaslalani/slides/stargazers)  
+8. 💻 **[Slides (Terminal)](https://github.com/maaslalani/slides)** — [![GitHub_Stars](https://img.shields.io/github/stars/maaslalani/slides?style=social&color=white)](https://github.com/maaslalani/slides/stargazers)  
    Terminal-based presentation tool for developers. Write presentations in Markdown and present directly inside the terminal window.
 
-9. ♠️ **[MDX Deck](https://github.com/jxnblk/mdx-deck)** — [![GitHub stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers)  
+9. ♠️ **[MDX Deck](https://github.com/jxnblk/mdx-deck)** — [![GitHub_Stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers)  
    React MDX-based presentation framework for creating component-driven interactive slides using JSX and Markdown.
 
-10. ⚛️ **[Spectacle](https://github.com/FormidableLabs/spectacle)** — [![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers)  
+10. ⚛️ **[Spectacle](https://github.com/FormidableLabs/spectacle)** — [![GitHub_Stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers)  
     Flexible React presentation library that allows embedding live React components, interactive elements, and custom deck themes.
 
-11. 🌐 **[WebSlides](https://github.com/webslides/WebSlides)** — [![GitHub stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers)  
+11. 🌐 **[WebSlides](https://github.com/webslides/WebSlides)** — [![GitHub_Stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers)  
     HTML5 presentation framework engineered for clean narrative storytelling, portfolio decks, and landing page presentations.
 
-12. 🚀 **[reveal-md](https://github.com/webpro/reveal-md)** — [![GitHub stars](https://img.shields.io/github/stars/webpro/reveal-md?style=social&color=white)](https://github.com/webpro/reveal-md/stargazers)  
+12. 🚀 **[reveal-md](https://github.com/webpro/reveal-md)** — [![GitHub_Stars](https://img.shields.io/github/stars/webpro/reveal-md?style=social&color=white)](https://github.com/webpro/reveal-md/stargazers)  
     CLI utility to render reveal.js presentations straight from Markdown files with instant live reloading and custom themes.
 
-13. 🔍 **[Sozi](https://github.com/sozi-projects/Sozi)** — [![GitHub stars](https://img.shields.io/github/stars/sozi-projects/Sozi?style=social&color=white)](https://github.com/sozi-projects/Sozi/stargazers)  
+13. 🔍 **[Sozi](https://github.com/sozi-projects/Sozi)** — [![GitHub_Stars](https://img.shields.io/github/stars/sozi-projects/Sozi?style=social&color=white)](https://github.com/sozi-projects/Sozi/stargazers)  
     Open-source zooming presentation editor and standalone HTML player built on SVG vector canvas for non-linear storytelling.
 
-14. 🚁 **[Hovercraft](https://github.com/regebro/hovercraft)** — [![GitHub stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers)  
+14. 🚁 **[Hovercraft](https://github.com/regebro/hovercraft)** — [![GitHub_Stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers)  
     Python tool that converts reStructuredText documents into dynamic impress.js 3D spatial presentations.
 
 ---
